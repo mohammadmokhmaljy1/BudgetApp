@@ -1,0 +1,117 @@
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.exe
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.deps.json
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.runtimeconfig.json
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.cache
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.lref
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.g.resources
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfoInputs.cache
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfo.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\refint\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.genruntimeconfig.cache
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\ref\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.cache
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.lref
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\refint\BudgetApp.dll
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.exe
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.deps.json
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.runtimeconfig.json
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.g.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.baml
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.g.resources
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfoInputs.cache
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfo.cs
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.genruntimeconfig.cache
+C:\Users\GHOFRAN\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\ref\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.exe
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.deps.json
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.runtimeconfig.json
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\bin\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTextBox.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.cache
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp_MarkupCompile.lref
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomButton.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\UserControls\SideBar.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\ExpensesView.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialGoalsView.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\FinancialStatusView.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\Views\RegisterView.baml
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.g.resources
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfoInputs.cache
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.AssemblyInfo.cs
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\refint\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.pdb
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.genruntimeconfig.cache
+C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\ref\BudgetApp.dll

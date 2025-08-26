@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="BudgetApp.UserControls.SideBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BudgetApp.UserControls"
+             mc:Ignorable="d" 
+             
+             d:DesignHeight="600" d:DesignWidth="200">
+
+    <!-- Border يغلف كل المحتوى -->
+    <Border Background="#800080" CornerRadius="20,0,0,20" Padding="15">
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image Source="/Resourses/main-logo.png" Width="170" Height="170" Grid.Row="0" />
+
+            <local:CustomButton ButtonText="الصفحة الرئيسية" Grid.Row="1" Height="40" />
+            <local:CustomButton ButtonText="إدارة الدخل" Grid.Row="2" Height="40" />
+            <local:CustomButton ButtonText="إدارة المصاريف" Grid.Row="3" Height="40" />
+            <local:CustomButton ButtonText="الأهداف المالية" Grid.Row="4" Height="40" />
+            <local:CustomButton ButtonText="الحالة المالية" Grid.Row="5" Height="40" />
+        </Grid>
+    </Border>
+</UserControl>
