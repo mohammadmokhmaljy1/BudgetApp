@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\",
+  "WorkspaceRootPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|c:\\users\\lapaone\\desktop\\budgetapp old\\budgetapp\\usercontrols\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\usercontrols\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|c:\\users\\lapaone\\desktop\\budgetapp\\budgetapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|c:\\users\\lapaone\\desktop\\budgetapp\\budgetapp\\usercontrols\\customtable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\usercontrols\\customtable.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|c:\\users\\lapaone\\desktop\\budgetapp\\budgetapp\\usercontrols\\customtable.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\usercontrols\\customtable.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,13 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Header.xaml",
-              "DocumentMoniker": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\UserControls\\Header.xaml",
-              "RelativeDocumentMoniker": "BudgetApp\\UserControls\\Header.xaml",
-              "ToolTip": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\UserControls\\Header.xaml",
-              "RelativeToolTip": "BudgetApp\\UserControls\\Header.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BudgetApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\Views\\MainWindow.xaml*",
+              "RelativeToolTip": "BudgetApp\\Views\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-26T00:06:40.807Z",
+              "WhenOpened": "2025-08-27T11:49:23.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomTable.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\UserControls\\CustomTable.xaml.cs",
+              "RelativeDocumentMoniker": "BudgetApp\\UserControls\\CustomTable.xaml.cs",
+              "ToolTip": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\UserControls\\CustomTable.xaml.cs",
+              "RelativeToolTip": "BudgetApp\\UserControls\\CustomTable.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:38:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomTable.xaml",
+              "DocumentMoniker": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\UserControls\\CustomTable.xaml",
+              "RelativeDocumentMoniker": "BudgetApp\\UserControls\\CustomTable.xaml",
+              "ToolTip": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\UserControls\\CustomTable.xaml",
+              "RelativeToolTip": "BudgetApp\\UserControls\\CustomTable.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-27T11:36:32.813Z",
               "EditorCaption": ""
             }
           ]

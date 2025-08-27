@@ -61,7 +61,7 @@ namespace BudgetApp.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BudgetApp;V1.0.0.0;component/usercontrols/custombutton.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BudgetApp;component/usercontrols/custombutton.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\UserControls\CustomButton.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

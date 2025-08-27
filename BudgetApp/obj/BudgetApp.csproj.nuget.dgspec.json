@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\BudgetApp.csproj": {}
+    "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\BudgetApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\BudgetApp.csproj": {
+    "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\BudgetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\BudgetApp.csproj",
+        "projectUniqueName": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\BudgetApp.csproj",
         "projectName": "BudgetApp",
-        "projectPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\BudgetApp.csproj",
+        "projectPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\BudgetApp.csproj",
         "packagesPath": "C:\\Users\\LapAone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp old\\BudgetApp\\obj\\",
+        "outputPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

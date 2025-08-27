@@ -115,3 +115,10 @@ C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\refint
 C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.pdb
 C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.genruntimeconfig.cache
 C:\Users\LapAone\Desktop\BudgetApp old\BudgetApp\obj\Debug\net8.0-windows\ref\BudgetApp.dll
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\Header.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\Header.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\BudgetApp.sourcelink.json
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\ActionsSection.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\ActionsSection.baml
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTable.g.cs
+C:\Users\LapAone\Desktop\BudgetApp\BudgetApp\obj\Debug\net8.0-windows\UserControls\CustomTable.baml

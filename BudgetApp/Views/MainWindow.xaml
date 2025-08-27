@@ -17,11 +17,20 @@
         </Grid.ColumnDefinitions>
 
         <Grid Grid.Column="0">
-            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <uc:Header Height="60" Grid.Row="0"></uc:Header>
+            <uc:ActionsSection Height="50" Grid.Row="1"></uc:ActionsSection>
+
+            <uc:CustomTable Grid.Row="2"></uc:CustomTable>
         </Grid>
         
         <Grid Grid.Column="1">
-            <uc:SideBar Width="220"></uc:SideBar>
+            <uc:SideBar Width="224"></uc:SideBar>
         </Grid>
         
     </Grid>

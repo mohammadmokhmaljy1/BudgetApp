@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Resource Include="Resourses\facebook.png" />
+    <Resource Include="Resourses\logo.png" />
     <Resource Include="Resourses\main-logo.png" />
     <Resource Include="Resourses\sign-background.jpg" />
   </ItemGroup>
