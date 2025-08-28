@@ -26,6 +26,7 @@ namespace BudgetApp.UserControls
             }
         }
 
+
         private void MyDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             // تحقق من أن هناك سطراً محدداً
