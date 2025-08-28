@@ -6,11 +6,82 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <DataGrid x:Name="MyDataGrid"
-                  AutoGenerateColumns="True"
-                  IsReadOnly="True"
-                  FontSize="16"
-                  FlowDirection="RightToLeft"
-                  Margin="10"/>
+        <Border CornerRadius="10" Background="#800080" Margin="10">
+            <DataGrid x:Name="MyDataGrid"
+          AutoGenerateColumns="True"
+          AutoGeneratingColumn="MyDataGrid_AutoGeneratingColumn"
+          IsReadOnly="True"
+          FontSize="16"
+          FlowDirection="RightToLeft"
+          Margin="5"
+          HeadersVisibility="Column"
+          ColumnWidth="*"
+          GridLinesVisibility="None"
+          BorderThickness="0"
+          BorderBrush="Transparent"
+          SelectionMode="Single"
+          SelectionUnit="FullRow"
+          SelectionChanged="MyDataGrid_SelectionChanged"
+          >
+                <DataGrid.Resources>
+                    <Style x:Key="CellTextBlockStyle" TargetType="TextBlock">
+                        <Setter Property="TextAlignment" Value="Center"/>
+                        <Setter Property="VerticalAlignment" Value="Center"/>
+                        <Setter Property="Margin" Value="5"/>
+                    </Style>
+
+                    <Style x:Key="CellTextBoxStyle" TargetType="TextBox">
+                        <Setter Property="TextAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="Padding" Value="5"/>
+                    </Style>
+                </DataGrid.Resources>
+
+                <!-- تنسيق عنوان الأعمدة -->
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#800080"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="Padding" Value="7"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+
+                <!-- تنسيق الصفوف -->
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Setter Property="Foreground" Value="#800080"/>
+                        <Setter Property="Background" Value="White"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+
+                        <Style.Triggers>
+                            <!-- لما الصف يتحدد -->
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="Pink"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                            </Trigger>
+                            <!-- لما الماوس يمر فوق الصف -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFFFE0E6"/>
+                                <!-- زهري فاتح -->
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+
+                <!-- تنسيق الخلايا -->
+                <DataGrid.CellStyle>
+                    <Style TargetType="DataGridCell">
+                        <Setter Property="BorderThickness" Value="0"/>
+                        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                        <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                    </Style>
+                </DataGrid.CellStyle>
+            </DataGrid>
+        </Border>
     </Grid>
 </UserControl>
