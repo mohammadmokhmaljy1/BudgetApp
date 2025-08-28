@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|c:\\users\\lapaone\\desktop\\budgetapp\\budgetapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CA24CD77-94B7-4C52-B034-CFF64BA342AF}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,18 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BudgetApp\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\LapAone\\Desktop\\BudgetApp\\BudgetApp\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "BudgetApp\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-08-28T11:23:25.759Z",
-              "EditorCaption": ""
             }
           ]
         }
